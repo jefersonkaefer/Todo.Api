@@ -1,0 +1,7 @@
+E:\projects\Todo.Api\Todo.Infrastructure.Data\bin\Debug\netcoreapp2.1\Todo.Infrastructure.Data.deps.json
+E:\projects\Todo.Api\Todo.Infrastructure.Data\bin\Debug\netcoreapp2.1\Todo.Infrastructure.Data.dll
+E:\projects\Todo.Api\Todo.Infrastructure.Data\obj\Debug\netcoreapp2.1\Todo.Infrastructure.Data.csprojAssemblyReference.cache
+E:\projects\Todo.Api\Todo.Infrastructure.Data\obj\Debug\netcoreapp2.1\Todo.Infrastructure.Data.csproj.CoreCompileInputs.cache
+E:\projects\Todo.Api\Todo.Infrastructure.Data\obj\Debug\netcoreapp2.1\Todo.Infrastructure.Data.AssemblyInfoInputs.cache
+E:\projects\Todo.Api\Todo.Infrastructure.Data\obj\Debug\netcoreapp2.1\Todo.Infrastructure.Data.AssemblyInfo.cs
+E:\projects\Todo.Api\Todo.Infrastructure.Data\bin\Debug\netcoreapp2.1\Todo.Domain.dll

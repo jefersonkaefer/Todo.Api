@@ -1,0 +1,8 @@
+E:\projects\Todo.Api\Todo.Domain\bin\Debug\netcoreapp2.1\Todo.Domain.deps.json
+E:\projects\Todo.Api\Todo.Domain\bin\Debug\netcoreapp2.1\Todo.Domain.runtimeconfig.json
+E:\projects\Todo.Api\Todo.Domain\bin\Debug\netcoreapp2.1\Todo.Domain.runtimeconfig.dev.json
+E:\projects\Todo.Api\Todo.Domain\bin\Debug\netcoreapp2.1\Todo.Domain.dll
+E:\projects\Todo.Api\Todo.Domain\obj\Debug\netcoreapp2.1\Todo.Domain.csprojAssemblyReference.cache
+E:\projects\Todo.Api\Todo.Domain\obj\Debug\netcoreapp2.1\Todo.Domain.csproj.CoreCompileInputs.cache
+E:\projects\Todo.Api\Todo.Domain\obj\Debug\netcoreapp2.1\Todo.Domain.AssemblyInfoInputs.cache
+E:\projects\Todo.Api\Todo.Domain\obj\Debug\netcoreapp2.1\Todo.Domain.AssemblyInfo.cs
